@@ -1,7 +1,12 @@
 title: Blog posts
-theme: minima
-minima:
-  skin: solarized-light
 author: 
   name: Ilya Tishchenko 
   email: vearlen@gmail.com
+
+theme: minima
+minima:
+  skin: solarized-light
+
+social_links:
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/itishchenko/" }
+
